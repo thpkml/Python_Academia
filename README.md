@@ -18,6 +18,12 @@ activities and progress on the activities.
 ## Class Diagram
 ![class diagram](class_diagram.png)
 ## Usage
+If you are not sure how to execute the python file, have a look at this [guide](https://realpython.com/run-python-scripts/)
+OR, simply open up the file using IDLE then Run > Run Module. Some examples of execution are shown below: 
+![getting staff name](get_name.png)
+![adding staff](add_staff.png)
+![adding_academic_work](add_work.png)
+![listing_works](list_works.png)
 Please feel free to use the code as you like.  
 Let me know if you find errors or a better way(there always is).   
 Share if someone needs it.  
