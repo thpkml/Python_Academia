@@ -15,6 +15,8 @@ The staff will be able to input the above records and update their progress on s
 The system will mainly be used by the Vice-Principal of Research & Enterprise.  
 He should be able to track whether staff (investigators) received the requested resources to conduct their 
 activities and progress on the activities.
+## Class Diagram
+![class diagram](class_diagram.png)
 ## Usage
 Please feel free to use the code as you like.  
 Let me know if you find errors or a better way(there always is).   
